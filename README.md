@@ -2,7 +2,7 @@
 
 Developer, but a student who builds for impact.
 
-Personal blueprint portfolio website showcasing projects, journey, and innovations.
+Personal portfolio website showcasing projects, journey, and innovations.
 
 ## Projects
 - Smart Snake Catcher
